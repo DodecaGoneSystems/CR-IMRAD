@@ -34,6 +34,13 @@ The standard optimizes for **low-friction cognitive processing** by enforcing st
 
 ---
 
+### 📚 Citation
+If you use this standard in your research, please cite:
+- **Specification:** Haskin, J. K. (2026). *CR-IMRaD*. [doi:10.17605/OSF.IO/RY59S](https://doi.org/10.17605/OSF.IO/RY59S)
+- **Automation Spec:** Haskin, J. K. (2026). *CR-IMRaD 3.1 Automation Json*. [doi:10.17605/OSF.IO/XKH9V](https://doi.org/10.17605/OSF.IO/XKH9V)
+
+---
+
 ### 🔗 DodecaGone Ecosystem
 - **Official Hub:** [DodecaGone Systems](https://github.com/DodecaGoneSystems)
 - **Math Engine:** [Forge Math](https://github.com/DodecaGoneSystems/ForgeMath)

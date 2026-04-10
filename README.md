@@ -13,6 +13,12 @@
 
 ---
 
+### 💎 GEMS Notice
+This repository is the new home for all **GEMS** research. Traditional GEMS content has been migrated to:
+[➡️ https://okayestperson.neocities.org/OkayestPerson/WEBSITE/GeminiGems](https://okayestperson.neocities.org/OkayestPerson/WEBSITE/GeminiGems)
+
+---
+
 ### 📄 Scientific Summary
 **CR-IMRaD** (Cognitive-Resonant IMRaD) is a writing standard designed to convert dense technical knowledge into high-fidelity documents that are universally readable without sacrificing scientific precision.
 
